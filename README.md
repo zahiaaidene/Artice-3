@@ -1,7 +1,6 @@
 # Robust Matrix Recovery via Truncated $L_{t,*-F}$ Regularization
 
-**Author:** Zahia Aidene  
-**Affiliation:** Southwest University, School of Mathematics and Statistics, Chongqing, China  
+**Author:** Zahia Aidene    
 **Email:** zahiaaidene@gmail.com  
 
 ---
