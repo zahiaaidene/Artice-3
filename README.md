@@ -54,7 +54,7 @@ $$
 
 ## References
 
-1. Aidene, Z. *Robust Matrix Recovery via Truncated $L_{t,*-F}$ Regularization under Noise Folding and Operator Perturbation*.
+1. Aidene, Z. *Robust Matrix Recovery via Truncated $L_{t,*-F}$ Regularization under Noise Folding and Operator Perturbation*.(under review)
 2. Arias-Castro, E., & Eldar, Y. C. *Noise Folding in Compressed Sensing*  
 3. Cai, J.-F., & Guo, H. *Truncated Nuclear Norm for Low-Rank Matrix Recovery*  
 *(Additional references as cited in the paper)*
